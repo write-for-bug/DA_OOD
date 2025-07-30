@@ -1,0 +1,14 @@
+numpy
+pillow
+protobuf
+PyYAML
+scikit-learn
+scipy
+tensorboard
+tensorboard-data-server
+torch>=2
+torchvision
+tqdm
+typing_extensions
+transformers
+diffusers
